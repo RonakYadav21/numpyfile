@@ -1,0 +1,13 @@
+import numpy as np
+arr=np.random.rand(2,3)
+print(arr)
+print()
+ar=np.random.rand(3)
+print(ar)
+print()
+var=np.random.randn(4)
+print(var)
+var1=np.random.ranf(6)
+print(var1)
+var2=np.random.randint(1,10)
+print(var2)
